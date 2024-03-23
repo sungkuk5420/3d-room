@@ -2,7 +2,7 @@
 -------------------------
 npm i -D vite
 -------------------------
-npm i three
+npm i three cannon-es
 -------------------------
 
 2. Run the development server
